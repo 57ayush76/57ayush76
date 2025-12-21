@@ -15,7 +15,7 @@ Hi, I’m Ayush. I’m interested in cybersecurity and learning how systems and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ayush-sonekar-435217311)
 
 <a href="https://tryhackme.com/p/mrrealityx">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mrrealityx.png" alt="Your Image Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mrrealityx.png" alt="Your Image Badge" />
 </a>
 
 </div>

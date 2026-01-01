@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-Hi, I’m Ayush. I’m interested in cybersecurity and learning how systems and networks work to identify vulnerabilities.
+Hi, I’m Ayush. I’m interested in cybersecurity and learning how web2 and networks work to identify vulnerabilities.
 
 </div>
 
